@@ -1,4 +1,3 @@
-اویس, [25/08/1405 07:26 ق.ظ]
 package com.magscan.ultimate3d
 
 import android.os.Bundle
